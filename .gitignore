@@ -1,0 +1,22 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!.gitattributes
+!CMakeLists.txt
+!Doxyfile
+!LICENSE
+!readme.MD
+!tcpCLIPS60_import.cmake
+# And these filetypes
+!*.sh
+# And these directories
+!build/
+!include/
+!clips60/
+!clipsclient/
+!clipsserver/
+!clipscontrol/
+!clipswrapper/
+!docs/
+!tests/
