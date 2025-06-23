@@ -71,7 +71,8 @@ bool isValidClipsString(std::string const& str){
 
 
 const std::string version(){
-	return VERSION_STRING;
+	//return VERSION_STRING;
+	return "6.4.1";
 }
 
 
