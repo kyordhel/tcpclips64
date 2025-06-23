@@ -1,4 +1,4 @@
-#include "router.h"
+#include "clipswrapperrouter.h"
 #include "clipsdefenv.h"
 
 extern "C"{
