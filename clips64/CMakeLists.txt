@@ -15,6 +15,8 @@ add_library(clips64 STATIC
 target_include_directories(clips64
   PRIVATE
   ${TCP_CLIPS64_HEADERS}/clips
+  PUBLIC
+  ${TCP_CLIPS64_HEADERS}
 )
 
 # set_target_properties(clips64
